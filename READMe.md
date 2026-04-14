@@ -47,7 +47,6 @@ jupyter notebook "handwriting recognition with MNIST/handwriting recognition.ipy
 ## 贡献与使用
 
 - 这个仓库主要用于个人学习。如果你想复用或参考其中内容，欢迎按需复制文件并注明来源。
-- 如需帮助或想加入更多示例，可以打开 issue 或联系仓库维护者。
 
 
 ---
